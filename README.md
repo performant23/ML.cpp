@@ -1,4 +1,4 @@
-# Machine Learning Algorithm Runtime Comparison
+# ML Algorithms Runtime Comparison
 
 This project aims to implement common algorithms like SVD, MDS, PCA, and NMF in C++ using the library 'Eigen'. 
 
